@@ -1,0 +1,69 @@
+/* Add your own styles */
+h1{
+font-size: 250%;
+color: coral;
+font-family: Chiller;
+ text-align: center;
+}
+
+body {
+  background-color: steelblue;
+
+}
+
+label{
+font-size: 250%;
+color: coral ;
+font-family: Chiller;
+margin-right: -250px;
+margin-left: 20%;
+}
+
+#country{
+font-size: 150%;
+font-family: Chiller;
+text-align: center;
+}
+
+button{
+color: white;
+text-transform: uppercase;
+text-decoration: none;
+background: #ed3330;
+padding:9px;
+border-radius: 10px;
+display: inline-block;
+border: none;
+transition: all 0.4s ease 0s;
+width: 10%;
+margin-right: 5%;
+
+}
+
+#country{
+box-sizing: border-box;
+width: 30%;
+border: solid #5B6DCD 10px;
+padding: 5px;
+margin-left: 20%;
+  }
+
+#result{
+    font-size: 30px;
+    position: absolute;
+    top: 40%;
+    ccolor: rgb(150,250,15);;
+    
+}
+
+input[type="checkbox"]{
+    position: relative;
+	       cursor: pointer
+    
+}
+#checkbox{
+    font-family: chiller;
+    font-size: 20px;
+    color: rgb(150,250,15);
+    
+}
